@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="device_disconnected">#00FFFFFF</color>
+
+    <color name="colorPrimary">#FFCE2939</color>
+    <color name="colorPrimaryDark">#FF9B1B30</color>
+    <color name="colorAccent">#FF0072B5</color>
+    <color name="colorTransparent">#00FFFFFF</color>
+    <!--2017年春夏のトレンドカラー-->
+    <!--Wonderland White-->
+    <color name="colorBrightWhite">#FFF4F5F0</color>
+    <color name="colorMarshmallow">#FFF0EEE4</color>
+    <color name="colorSandDollar">#FFDECDBE</color>
+    <color name="colorAlmostMauve">#FFE7DCD9</color>
+    <color name="colorWhitecapGray">#FFE0D5C6</color>
+    <color name="colorWheat">#FFE3C7A6</color>
+    <color name="colorGrayLilac">#FFD6CCD3</color>
+    <!--Mature Yellows-->
+    <!--Baking Spices-->
+    <!--Intemporal Beiges-->
+    <color name="colorVaporBlue">#FFBEBDBD</color>
+    <color name="colorTaosTaupe">#FFBFA77F</color>
+    <color name="colorNomad">#FFB49F89</color>
+    <color name="colorBark">#FFA99592</color>
+    <color name="colorWarmTaupe">#FFAF9483</color>
+    <color name="colorGullGray">#FFA49CA0</color>
+    <!--Weaving Pigments-->
+    <!--Spiritual Dark-->
+    <color name="colorBlueNights">#FF363B48</color>
+    <color name="colorPurpleVelvet">#FF41354D</color>
+    <color name="colorShadowPurple">#FF4E334E</color>
+    <color name="colorPhantom">#FF39373B</color>
+    <color name="colorOrionBlue">#FF3E4F5C</color>
+    <color name="colorBlackForest">#FF414F3C</color>
+    <color name="colorPeriscope">#FF46444C</color>
+    <!--Cuban Tabacco-->
+    <!--Whirling Mauve-->
+    <!--Strawberry Sunrise-->
+    <color name="colorMauveglow">#FFD18489</color>
+    <color name="colorBaroqueRose">#FFB35A66</color>
+    <color name="colorNostalgiaRose">#FFA4777E</color>
+    <color name="colorPinkCarnation">#FFED7A9E</color>
+    <color name="colorMoonliteMauve">#FFD28FB0</color>
+    <color name="colorCarmineRose">#FFE35B8F</color>
+    <color name="colorRaspberry">#FFD32E5E</color>
+    <!--Spicy Reds-->
+    <color name="colorChrysanthemum">#FFBE454F</color>
+    <color name="colorTomato">#FFCE2939</color>
+    <color name="colorChiliPepper">#FF9B1B30</color>
+    <color name="colorRumbaRed">#FF7C2439</color>
+    <color name="colorVioletQuartz">#FF8B4963</color>
+    <color name="colorPurplePotion">#FF692746</color>
+    <!--Orange Ceramics-->
+    <color name="colorApricotIce">#FFFBBE99</color>
+    <!--Software Teal-->
+    <!--Marine Blue-->
+    <color name="colorPetitFour">#FF87C2D4</color>
+    <color name="colorPlacidBlue">#FF8CADD3</color>
+    <color name="colorBijouBlu">#FF4E5E7F</color>
+    <color name="colorMarina">#FF4F84C4</color>
+    <color name="colorBrilliantBlue">#FF0075B3</color>
+    <color name="colorBlueJewel">#FF007BAA</color>
+    <color name="colorFrenchBlue">#FF0072B5</color>
+    <color name="colorBonnieBlue">#FF539CCC</color>
+    <color name="colorLimoges">#FF243F6C</color>
+    <!--Organic Greens-->
+    <color name="colorLuminaryGreen">#FFE3EAA5</color>
+
+    <color name="color">#FF692746</color>
+
+</resources>

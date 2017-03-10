@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CheckBluetooth</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="readers_list_button_stop">Stop</string>
+    <string name="readers_list_msg_discover">Bluetooth discovery finished</string>
+
+
+</resources>
